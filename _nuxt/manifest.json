@@ -1,11 +1,11 @@
 {
   "node_modules/nuxt/dist/app/entry.mjs": {
-    "file": "entry-988f4193.mjs",
+    "file": "entry-710cb5a5.mjs",
     "src": "node_modules/nuxt/dist/app/entry.mjs",
     "isEntry": true,
     "dynamicImports": [
       "layouts/main.vue",
-      "_useGroup-0e8ab414.mjs",
+      "_useGroup-f6676ae0.mjs",
       "node_modules/@nuxt/ui-templates/dist/templates/welcome.vue",
       "pages/index.vue",
       "pages/privacy.vue",
@@ -17,30 +17,30 @@
     ]
   },
   "pages/index.vue": {
-    "file": "index-30e3606f.mjs",
+    "file": "index-7b6d65eb.mjs",
     "src": "pages/index.vue",
     "isDynamicEntry": true,
     "imports": [
       "node_modules/nuxt/dist/app/entry.mjs",
-      "_useTable-17971ca2.mjs",
-      "_useGroup-0e8ab414.mjs"
+      "_useTable-eea46825.mjs",
+      "_useGroup-f6676ae0.mjs"
     ]
   },
-  "_useTable-17971ca2.mjs": {
-    "file": "useTable-17971ca2.mjs",
+  "_useTable-eea46825.mjs": {
+    "file": "useTable-eea46825.mjs",
     "imports": [
       "node_modules/nuxt/dist/app/entry.mjs"
     ]
   },
-  "_useGroup-0e8ab414.mjs": {
-    "file": "useGroup-0e8ab414.mjs",
+  "_useGroup-f6676ae0.mjs": {
+    "file": "useGroup-f6676ae0.mjs",
     "isDynamicEntry": true,
     "imports": [
       "node_modules/nuxt/dist/app/entry.mjs"
     ]
   },
   "pages/privacy.vue": {
-    "file": "privacy-e28eea8b.mjs",
+    "file": "privacy-74647f30.mjs",
     "src": "pages/privacy.vue",
     "isDynamicEntry": true,
     "imports": [
@@ -48,7 +48,7 @@
     ]
   },
   "pages/submissions.vue": {
-    "file": "submissions-b8641fec.mjs",
+    "file": "submissions-dee73c17.mjs",
     "src": "pages/submissions.vue",
     "isDynamicEntry": true,
     "imports": [
@@ -56,17 +56,17 @@
     ]
   },
   "pages/taggroups.vue": {
-    "file": "taggroups-98a125aa.mjs",
+    "file": "taggroups-d64c0b21.mjs",
     "src": "pages/taggroups.vue",
     "isDynamicEntry": true,
     "imports": [
       "node_modules/nuxt/dist/app/entry.mjs",
-      "_useTable-17971ca2.mjs",
-      "_useGroup-0e8ab414.mjs"
+      "_useTable-eea46825.mjs",
+      "_useGroup-f6676ae0.mjs"
     ]
   },
   "layouts/main.vue": {
-    "file": "main-42062e4f.mjs",
+    "file": "main-44b3e349.mjs",
     "src": "layouts/main.vue",
     "isDynamicEntry": true,
     "imports": [
@@ -74,7 +74,7 @@
     ]
   },
   "node_modules/@nuxt/ui-templates/dist/templates/welcome.vue": {
-    "file": "welcome-3b38c1f6.mjs",
+    "file": "welcome-8dd4ca12.mjs",
     "src": "node_modules/@nuxt/ui-templates/dist/templates/welcome.vue",
     "isDynamicEntry": true,
     "imports": [
