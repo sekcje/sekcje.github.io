@@ -1,0 +1,84 @@
+{
+  "node_modules/nuxt/dist/app/entry.mjs": {
+    "file": "entry-988f4193.mjs",
+    "src": "node_modules/nuxt/dist/app/entry.mjs",
+    "isEntry": true,
+    "dynamicImports": [
+      "layouts/main.vue",
+      "_useGroup-0e8ab414.mjs",
+      "node_modules/@nuxt/ui-templates/dist/templates/welcome.vue",
+      "pages/index.vue",
+      "pages/privacy.vue",
+      "pages/submissions.vue",
+      "pages/taggroups.vue"
+    ],
+    "css": [
+      "entry.6afd9348.css"
+    ]
+  },
+  "pages/index.vue": {
+    "file": "index-30e3606f.mjs",
+    "src": "pages/index.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "node_modules/nuxt/dist/app/entry.mjs",
+      "_useTable-17971ca2.mjs",
+      "_useGroup-0e8ab414.mjs"
+    ]
+  },
+  "_useTable-17971ca2.mjs": {
+    "file": "useTable-17971ca2.mjs",
+    "imports": [
+      "node_modules/nuxt/dist/app/entry.mjs"
+    ]
+  },
+  "_useGroup-0e8ab414.mjs": {
+    "file": "useGroup-0e8ab414.mjs",
+    "isDynamicEntry": true,
+    "imports": [
+      "node_modules/nuxt/dist/app/entry.mjs"
+    ]
+  },
+  "pages/privacy.vue": {
+    "file": "privacy-e28eea8b.mjs",
+    "src": "pages/privacy.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "node_modules/nuxt/dist/app/entry.mjs"
+    ]
+  },
+  "pages/submissions.vue": {
+    "file": "submissions-b8641fec.mjs",
+    "src": "pages/submissions.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "node_modules/nuxt/dist/app/entry.mjs"
+    ]
+  },
+  "pages/taggroups.vue": {
+    "file": "taggroups-98a125aa.mjs",
+    "src": "pages/taggroups.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "node_modules/nuxt/dist/app/entry.mjs",
+      "_useTable-17971ca2.mjs",
+      "_useGroup-0e8ab414.mjs"
+    ]
+  },
+  "layouts/main.vue": {
+    "file": "main-42062e4f.mjs",
+    "src": "layouts/main.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "node_modules/nuxt/dist/app/entry.mjs"
+    ]
+  },
+  "node_modules/@nuxt/ui-templates/dist/templates/welcome.vue": {
+    "file": "welcome-3b38c1f6.mjs",
+    "src": "node_modules/@nuxt/ui-templates/dist/templates/welcome.vue",
+    "isDynamicEntry": true,
+    "imports": [
+      "node_modules/nuxt/dist/app/entry.mjs"
+    ]
+  }
+}
