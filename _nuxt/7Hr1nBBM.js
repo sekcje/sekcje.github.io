@@ -1,0 +1,1 @@
+import{aj as r,B as s}from"./DK7vLGm-.js";function n(){const t=r(),e=s(()=>t.dark.isActive?"text-white":"text-dark"),a=s(()=>t.dark.isActive?"purple-3":"accent"),o=s(()=>t.dark.isActive?"bg-dark":"bg-white");return{textClass:e,componentColor:a,backgroundClass:o}}export{n as u};
